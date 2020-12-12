@@ -1,0 +1,128 @@
+*{
+	margin: 0%;
+	padding: 0%;
+}
+body{
+	background-color: white;
+
+}
+.container{
+	max-width: 1000px;
+	background-color: rgb(74, 228, 215);
+	margin: auto;
+	padding: 20px;
+		
+}
+header{
+
+}
+.img{
+	width: 100px;
+	height: 120px;
+	border: 3px solid white;
+	border-radius: 50%;
+	float: left;
+}
+.bio{
+	float: left;
+	padding: 30px;
+
+}
+h1,h2,h3,h4,h5{
+	color: black;
+}
+.contact{
+	float: right;
+	padding: 30px;
+}
+.contact a{
+	text-decoration: none;
+	color: rgb(8, 0, 12);
+	font-weight:bold;
+
+}
+.contact a:hover{
+	text-decoration: underline;
+	color: tomato;
+
+}
+.dev-clear{
+	clear: both;
+}
+hr{
+	border: solid 3px black;
+	width: 100%;
+	margin: 20px auto;
+	border-bottom: none;
+}
+#personal-section{
+
+}
+.content{
+	margin: 30px auto;
+
+}
+.left-div{
+	width: 30%;
+	float: left;
+
+}
+.right-div{
+	width: 70%;
+	float: right;
+	font-weight: ;	
+}
+.dev-clear{
+	clear: both;
+}
+.common-hr{
+	border: solid black 1px;
+	border-bottom: none;
+	margin: 20px auto;
+	width: 100%;
+}
+#Work-Expereince{
+
+}
+.content{
+
+}
+.left-div{
+	width: 30%;
+	float: left;
+
+}
+.right-div{
+	width: 70%;
+	float: right;
+	font-weight: ;
+
+}
+.dev-clear{
+	clear: both;
+}
+hr{
+	border: solid 3px black;
+	width: 100%;
+	margin: 20px auto;
+	border-bottom: none;
+}
+.bottom-container{
+	background-color: black;
+	text-align: center;
+	padding: 10px;
+}
+.bottom-container a{
+	color: white;
+	text-decoration: none;
+	margin: 20px;
+}
+.bottom-container p{
+	color: white;
+	margin-top: 20px;
+
+}
+.bottom-container a:hover{
+	text-decoration: underline;
+
+}
